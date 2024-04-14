@@ -13,7 +13,7 @@
 **Getting Started**
 
 1. **Installation:**
-   - Frame Forge requires Python 3 and the following libraries: Pillow,  os, and shutil. You can install them using `pip install Pillow`.
+   - Frame Forge requires Python 3 and the following extra libraries: Pillow and OpenCV. You can install them using `pip install Pillow opencv-python`.
 
 2. **Usage:**
    - Clone the repository: `git clone https://github.com/NobreHD/FrameForge.git`
