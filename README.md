@@ -34,7 +34,7 @@
 
 **Further Considerations:**
 
-* Refer to the `Frame_Forge.py` script for detailed function definitions. 
+* Refer to the `app.py` script for detailed function definitions. 
 * Frame identification requires user input. Review the comparisons carefully for optimal results.
 
 **Contributing:**
